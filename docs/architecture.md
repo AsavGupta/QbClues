@@ -162,9 +162,9 @@ A loading indicator shows from Submit until a result or error comes back.
 
 | | iOS | Android |
 |---|-----|---------|
-| Language / UI | Swift, SwiftUI | *[Kotlin, Jetpack Compose]* |
-| Networking | `URLSession` with async/await | *[e.g. Retrofit / Ktor / OkHttp]* |
-| Local storage | `UserDefaults` (JSON-encoded) | *[fill in]* |
+| Language / UI | Swift, SwiftUI | Kotlin |
+| Networking | `URLSession` with async/await  |
+| Local storage | `UserDefaults` (JSON-encoded) |
 | Ads | Google AdMob | Google AdMob |
 
 ## Monetization
@@ -175,7 +175,3 @@ The app is free and supported by Google AdMob:
 - An **interstitial ad** shown periodically during use (currently every 90 seconds on iOS)
 
 On iOS, the app asks for App Tracking Transparency permission before ads are personalized. Declining still allows non-personalized ads.
-
-## Data sources and credits
-
-All question data comes from [QBReader](https://www.qbreader.org). QbClues only reads from its public API and does not store or redistribute the question set. QbClues is not affiliated with QBReader or any quizbowl organization.
