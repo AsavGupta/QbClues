@@ -163,8 +163,8 @@ A loading indicator shows from Submit until a result or error comes back.
 | | iOS | Android |
 |---|-----|---------|
 | Language / UI | Swift, SwiftUI | Kotlin |
-| Networking | `URLSession` with async/await  |
-| Local storage | `UserDefaults` (JSON-encoded) |
+| Networking | `URLSession` with async/await | Retrofit |
+| Local storage | `UserDefaults` (JSON-encoded) | In-Device Storage |
 | Ads | Google AdMob | Google AdMob |
 
 ## Monetization
