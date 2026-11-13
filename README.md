@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/icon.png" width="120" alt="QbClues icon"/>
+  <img src="assets/QbCluesIcon.png" width="120" alt="QbClues icon"/>
 </p>
 
-<h1 align="center">QbClues</h1>
+<h1 align="center"><img src="assets/title.svg"></h1>
 
 <p align="center">
   <a href="APP_STORE_LINK"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="45"/></a>
@@ -27,7 +27,7 @@ them into the **stock clues**: the facts that show up again and again across pac
 
 | iOS | Android |
 |-----|---------|
-| <img src="assets/screenshots/ios/search.png" width="250"/> | <img src="assets/screenshots/android/search.png" width="250"/> |
+| <img src="assets/screenshots/ios/QbCluesScreenshotiOS.png" width="250"/> | <img src="assets/screenshots/android/QbCluesScreenshotAndroid.png" width="250"/> |
 
 ## How the pipeline works
 
